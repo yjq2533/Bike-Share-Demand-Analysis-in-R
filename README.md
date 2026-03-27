@@ -26,3 +26,7 @@ This project analyzes bikeshare usage patterns using R, with a focus on seasonal
 
 # Notes
 Dataset provided in course material and not included in this repository.
+
+# Timeline
+This project is completed by November 2025
+T
